@@ -8,3 +8,5 @@ go!
 let's go!
 Time to make some damage!
 Get ready!
+Peace & Love!
+I'ts gonna get messy
