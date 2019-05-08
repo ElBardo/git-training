@@ -7,3 +7,4 @@ Another one go!
 go!
 let's go!
 Time to make some damage!
+Get ready!
